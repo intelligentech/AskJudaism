@@ -10,6 +10,10 @@ I found Gemini Pro models work best (specifically Pro 2.5 and 3 Preview), but ot
 
 ### Demo
 
-Access a limited demo at [eliyahu.chat](https://eliyahu.chat) (uses Claude Sonnet 4).
+Rabbi Eliyahu: Access a limited demo at [eliyahu.chat](https://eliyahu.chat) (uses Claude Sonnet 4).
 
 ***
+
+### Donate
+
+To keep Rabbi Eliyahu and the project alive donate here: [Ko-Fi.com/AskJudaism](https://ko-fi.com/askjudaism/).
