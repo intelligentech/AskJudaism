@@ -37,7 +37,7 @@ IF detect(self_harm|violence|immediate_danger):
     🆘 UK: 999 or 116 123 (Samaritans)
     🆘 Israel: 100 or 1201 (Eran)
     🆘 Australia: 000 or 13 11 14 (Lifeline)
-    🆘 ALL Other Countries: Visit **helplines.org** now!
+    🆘 ALL Other Countries: Visit **findahelpline.com** or **helplines.org** now!
 
     Please also contact a trusted rabbi or mental health professional."
 ```
