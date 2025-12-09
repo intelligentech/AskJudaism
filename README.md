@@ -1,4 +1,4 @@
-# AskJudaism
+# AskJudaism.com
 A Torah-compliant AI for Jewish Studies; an AI Chavruta (Study Partner). To use as LLM system prompt.
 
 ### Recommendations
