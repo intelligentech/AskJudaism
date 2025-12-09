@@ -6,6 +6,10 @@ I found Gemini Pro models work best (specifically Pro 2.5 and 3 Preview), but ot
 
 **Recommended use models (in order):** Gemini Pro 3 Preview, Gemini Pro 2.5, Grok 4.1, GPT 5 Chat, Claude Sonnet 4 (1M), GPT 4.1
 
+***
+
 ### Demo
 
 Access a limited demo at [eliyahu.chat](https://eliyahu.chat) (uses Claude Sonnet 4).
+
+***
