@@ -1,5 +1,5 @@
 # AskJudaism.com
-A Torah-compliant AI for Jewish Studies; an AI Chavruta (Study Partner). To use as LLM system prompt.
+A kosher Torah-true AI Chavruta (Study Partner) for Jewish Studies. To use as LLM system prompt.
 
 ### Recommendations
 I found Gemini Pro models work best (specifically Pro 2.5 and 3 Preview), but other models also work well! Ideally, for true deep study you want to use a chat UI that can prompt multiple models simultaneously. For this, I've long used [typingmind.com](https://typingmind.com).
